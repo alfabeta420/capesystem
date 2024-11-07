@@ -44,9 +44,13 @@ And then change `0.0.0.0` to your vps IPv4.
 
 Use `/register <username>` command in the selected channel to bind your Minecraft username to the Discord account.
 
+<hr>
+
 ### Cape
 
 Use `/cape <id>` command in the selected channel to set any cape from the `capes` folder.
+
+<hr>
 
 ### Cape caching
 
